@@ -1,0 +1,6 @@
+framework module Pods_NEtworkLayer_NEtworkLayerUITests {
+  umbrella header "Pods-NEtworkLayer-NEtworkLayerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
